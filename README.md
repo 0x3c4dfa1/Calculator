@@ -1,4 +1,3 @@
-markdown
 # Modern Calculator
 
 I created this calculator because I was bored and wanted to play around with Python and PyQt6. It's a modern, feature-rich calculator that supports basic arithmetic, scientific functions, and even a history of calculations.
